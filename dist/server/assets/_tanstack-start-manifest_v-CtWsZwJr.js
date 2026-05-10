@@ -1,4 +1,0 @@
-const tsrStartManifest = () => ({ routes: { __root__: { filePath: "C:/Users/gitog/Documents/Personality APp/src/routes/__root.tsx", children: ["/", "/results", "/test"], assets: void 0, preloads: ["/assets/index--hj4Pgr0.js"] }, "/": { filePath: "C:/Users/gitog/Documents/Personality APp/src/routes/index.tsx", children: void 0, assets: void 0, preloads: ["/assets/index-CS_HAw6P.js", "/assets/PageShell-B6vza_5H.js"] }, "/results": { filePath: "C:/Users/gitog/Documents/Personality APp/src/routes/results.tsx", children: void 0, assets: void 0, preloads: ["/assets/results-B0dAevt9.js", "/assets/PageShell-B6vza_5H.js"] }, "/test": { filePath: "C:/Users/gitog/Documents/Personality APp/src/routes/test.tsx", children: void 0, assets: void 0, preloads: ["/assets/test-CsaNNKNC.js", "/assets/PageShell-B6vza_5H.js"] } }, clientEntry: "/assets/index--hj4Pgr0.js" });
-export {
-  tsrStartManifest
-};

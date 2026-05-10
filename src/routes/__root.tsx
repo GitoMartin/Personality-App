@@ -8,7 +8,6 @@ import {
   Scripts,
 } from "@tanstack/react-router";
 
-import appCss from "../styles.css?url";
 
 function NotFoundComponent() {
   return (
@@ -87,12 +86,7 @@ export const Route = createRootRouteWithContext<{
       { title: "Lovable App" },
       { name: "description", content: "Lovable Generated Project" },
     ],
-    links: [
-      {
-        rel: "stylesheet",
-        href: appCss,
-      },
-    ],
+   
   }),
 
   component: RootComponent,
